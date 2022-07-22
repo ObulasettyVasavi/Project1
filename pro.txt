@@ -1,0 +1,30 @@
+<html>
+<head>
+<style>
+.todo-card
+{
+background-image:url("https://images.pexels.com/photos/2393816/pexels-photo-2393816.jpeg?auto=compress&cs=tinysrgb&w=600")
+}
+</style>
+</head>
+<body>
+<div class="todo-card">
+<h1>My first project<h1>
+<p>In this poject we will have a heading and an image.My content will be in a bold style. 
+In this poject we will have a heading and an image.My content will be in a bold style. 
+In this poject we will have a heading and an image.My content will be in a bold style. 
+In this poject we will have a heading and an image.My content will be in a bold style. 
+In this poject we will have a heading and an image.My content will be in a bold style. 
+In this poject we will have a heading and an image.My content will be in a bold style.</p>
+<ul>
+<li>hello</li>
+<li>hello</li>
+<li>hello</li>
+</ul>
+<ol>
+<li>hello</li>
+<li>hello</li>
+<li>hello</li>
+</ol>
+</div>
+</body>
